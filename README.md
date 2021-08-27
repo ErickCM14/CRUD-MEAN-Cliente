@@ -1,27 +1,15 @@
-# CRUDMEANCliente
+# CRUD-MEAN-Cliente
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+Herramientas principales de desarrollo: 
+- [x] Angular
+- [x] Bootstrap
 
-## Development server
+## Objetivo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Práctica con el objetivo de reforzar conocimientos en estas tecnologías, poniendo en práctica la arquitectura el consumo de API mediante usando peticiones HTTP con HttpClienModule y con Observables, es la parte Front de mi App, de igual manera apoyandome con POSTMAN como herramienta para las peticiones HTTP hacia las rutas definidas en Express para las peticiones correctas hacia Mongoose
+##
+Esta es la parte del Frontend, la parte del backend se encuentra en otro repositorio donde se utiliza Node, Express y Mongoose [CRUD-MEAN-Cliente](https://github.com/ErickCM14/CRUD-MEAN)
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Otras herramientas de desarrollo:
+- [x] RxJS
+- [x] Toast
