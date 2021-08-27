@@ -1,8 +1,7 @@
 # CRUD-MEAN-Cliente
 
-Herramientas principales de desarrollo: 
+Tecnologías principales de desarrollo: 
 - [x] Angular
-- [x] Bootstrap
 
 ## Objetivo
 
@@ -10,6 +9,7 @@ Práctica con el objetivo de reforzar conocimientos en estas tecnologías, ponie
 ##
 Esta es la parte del Frontend, la parte del backend se encuentra en otro repositorio donde se utiliza Node, Express y Mongoose [CRUD-MEAN-Cliente](https://github.com/ErickCM14/CRUD-MEAN)
 
-### Otras herramientas de desarrollo:
+### Librerías y modulos de desarrollo:
+- [x] Bootstrap
 - [x] RxJS
 - [x] Toast
