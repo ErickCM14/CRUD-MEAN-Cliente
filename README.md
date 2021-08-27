@@ -12,4 +12,4 @@ Esta es la parte del Frontend, la parte del backend se encuentra en otro reposit
 ### Librerías y modulos de desarrollo:
 - [x] Bootstrap
 - [x] RxJS
-- [x] Toast
+- [x] ngx Toastr
