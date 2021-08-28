@@ -15,4 +15,4 @@ Esta es la parte del Frontend, la parte del backend se encuentra en otro reposit
 - [x] ngx Toastr
 
 ### Deploy
-- [x] (MEAN Cliente)(https://erickcm-mean-cliente.netlify.app/)
+- [x] (MEAN Cliente)(https://erickcm-crud-mean.netlify.app/)

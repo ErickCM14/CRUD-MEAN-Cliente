@@ -8,7 +8,8 @@ import { Usuarios } from '../models/usuarios';
 })
 export class ObjetoService {
 
-  url: string = 'http://localhost:3000/api/usuarios/';
+  // url: string = 'http://localhost:3000/api/usuarios/';
+  url: string = 'https://crud-mean.vercel.app/api/usuarios/';
 
   constructor(private http: HttpClient) { }
 
